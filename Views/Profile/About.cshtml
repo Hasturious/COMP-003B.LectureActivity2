@@ -1,0 +1,10 @@
+﻿@page
+@model COMP_003B.LectureActivity2.Views.Profile.AboutModel
+@{
+    ViewData["Title"] = "About";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewData["Title"]</h2>
+<p>This page introduces me to the world of ASP.NET Core.</p>
+@await Html.PartialAsync("_Sidebar")
