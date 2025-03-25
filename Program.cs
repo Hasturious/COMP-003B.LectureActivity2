@@ -1,3 +1,7 @@
+//Author : Jean Bryant Figueroa
+//Class : COMP003B
+//Fauculty : Johnathan Cruz
+//Purpose : Lecture Activity: MVC
 using COMP_003B.LectureActivity2.Middleware;
 
 namespace COMP_003B.LectureActivity2
